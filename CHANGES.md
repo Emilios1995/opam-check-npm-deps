@@ -1,3 +1,7 @@
+## Unreleased
+
+- Support opam 2.6
+
 ## v4.1.0 (2025-12-23)
 
 - Support opam 2.5
